@@ -4,8 +4,8 @@
 //For Android ( :- + Emoji )
 //For PC ( / + Emoji )
 
-$stars = "<:stars:652510817740259337>";
-$CP = "<:CP:652872496231743508>";
+:- + Emoji$stars = "<:stars:652510817740259337>";
+:- + Emoji$CP = "<:CP:652872496231743508>";
 $goldCoins = "<:gCoins:653899110486900747>";
 $coins = "<:usercoins:652864078708211712>";
 $unverifycoin = "<:uncoins:655602598061015074>";
